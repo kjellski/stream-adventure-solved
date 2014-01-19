@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kjellski/stream-adventure-solved",
   "dependencies": {
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "split": "~0.2.10"
   }
 }
