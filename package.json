@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kjellski/stream-adventure-solved",
   "dependencies": {
+    "websocket-stream": "0.2.0",
     "request": "2.9.203",
     "through": "~2.3.4",
     "split": "~0.2.10",
