@@ -29,6 +29,7 @@
     "through": "~2.3.4",
     "split": "~0.2.10",
     "concat-stream": "~1.4.1",
-    "duplexer": "~0.1.1"
+    "duplexer": "~0.1.1",
+    "stream-combiner": "0.0.4"
   }
 }
